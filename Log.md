@@ -8,7 +8,7 @@ Process log
 
  * Thoughts: Loads to catch up, happy with the beginning
 
- * Link to work: Just theory for a while
+ * Link to work: Just theory for a while. [D1](https://github.com/PioTi/100DaysOfCode/tree/master/Day1)
  
  ### Day 02: 
  
@@ -29,4 +29,4 @@ Process log
 
  * Thoughts: **Yeahhh** (Markdown effect)
 
- * Link to work: Just theory for a while
+ * Link to work: Just theory for a while [D3](https://github.com/PioTi/100DaysOfCode/tree/master/Day3)
