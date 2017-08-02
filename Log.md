@@ -41,7 +41,7 @@ Process log
  
  ### Day 05 :
  Practiced on tuples,lists, strings with the course on EDX
- * Today's Progress: Lists in detail. How you can use sorted and sort with list. How to make custom sorts. One code on lists
+ * Today's Progress: 
 
  * Thoughts: **DS** 
 
@@ -49,7 +49,7 @@ Process log
  
  ### Day 06 :
  Practiced on tuples,lists, strings,function with the course on EDX. Python function will return none if no return present. Difference between find and index.Captialise() and swapcase(). Difference when str1.upper is called and str1.upper()
- * Today's Progress: Lists in detail. How you can use sorted and sort with list. How to make custom sorts. One code on lists
+ * Today's Progress: 
 
  * Thoughts: **Doc strings need to present before the function body starts( a good practice)** 
 
@@ -59,8 +59,7 @@ Process log
   
  ### Day 07:
  Practiced on tuples,lists, strings with the course on EDX. How to clone and alias a list. Difference between enumerate and zip . How to use unzip
- * Today's Progress: Lists in detail. How you can use sorted and sort with list. How to make custom sorts. One code on lists
-
+ * Today's Progress: 
  * Thoughts: **DS** 
 
  * Link to work: 
